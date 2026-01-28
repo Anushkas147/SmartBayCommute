@@ -37,9 +37,9 @@ A unified dashboard that mashes up real-time transit data with weather and air q
 | API | Purpose | Key Required |
 |-----|---------|:------------:|
 | [**BART API**](https://api.bart.gov) | Real-time train departures, 49 stations | ✅ Public key (included) |
-| [**Open Meteo Weather**](https://open-meteo.com) | Temperature, precipitation, wind | ❌ FREE |
-| [**Open Meteo Air Quality**](https://open-meteo.com/en/docs/air-quality-api) | US EPA AQI, PM2.5, Ozone | ❌ FREE |
-| [**Nominatim (OSM)**](https://nominatim.openstreetmap.org) | Location search & geocoding | ❌ FREE |
+| [**Open Meteo Weather**](https://open-meteo.com) | Temperature, precipitation, wind | ✅ FREE |
+| [**Open Meteo Air Quality**](https://open-meteo.com/en/docs/air-quality-api) | US EPA AQI, PM2.5, Ozone | ✅ FREE |
+| [**Nominatim (OSM)**](https://nominatim.openstreetmap.org) | Location search & geocoding | ✅ FREE |
 
 **✨ 3 out of 4 APIs require NO API key!**
 
